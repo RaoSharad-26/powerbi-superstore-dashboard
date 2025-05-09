@@ -1,6 +1,6 @@
 # 📊 Retail Sales Analysis Dashboard (Superstore Dataset)
 
-This project demonstrates a complete data analytics workflow — from raw data to business insights — using **Python (Pandas)** and **Power BI**.  
+This project demonstrates a complete data analytics workflow — from raw data to business insights — using **Python (Pandas)**, **MS EXCEL** and **Power BI**.  
 The dashboard helps visualize product-level and regional sales trends, customer segments, and profitability to aid strategic decision-making.
 
 ---
@@ -36,7 +36,7 @@ The dashboard helps visualize product-level and regional sales trends, customer 
 
 ## 🖼️ Dashboard Preview
 
-
+Screenshot/Dashboard.png
 
 ---
 
