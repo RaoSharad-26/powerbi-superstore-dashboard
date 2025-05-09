@@ -36,7 +36,7 @@ The dashboard helps visualize product-level and regional sales trends, customer 
 
 ## 🖼️ Dashboard Preview
 
-Screenshot/Dashboard.png
+![Dashboard Screenshot]Screenshot/Dashboard.png
 
 ---
 
